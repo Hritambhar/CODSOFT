@@ -6,3 +6,7 @@
 <h2>Titanic Survival Prediction</h2>
 <h2>AIM</h2>
 The aim of this project is to build a model that predicts whether a passenger on the Titanic survived or not based on given features.
+<h3>Task 2</h3>
+<h2>Movie Rating Prediction With Python</h2>
+<h2>AIM</h2>
+The aim of this project is to build a model that predicts the rating of a movie based on features like genre, director, and actors.
